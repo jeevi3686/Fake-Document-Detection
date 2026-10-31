@@ -1,8 +1,6 @@
 # Fake Document Detection System
 
-https://drive.google.com/file/d/1A5UTxG6JsuagPEyW3yxZJxf_A_4PrvzY/view?usp=drivesdk
 
-(pdf link with app screenshots and full architecture and working details)
 
 ## 1. Project Overview
 AI-Powered Fake Document Detection System for Student Academic Documents using Machine Vision and Machine Learning.
